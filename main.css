@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway|Rock+Salt&display=swap');
+
+body {
+    background: url("images/food.jpg");
+}
+
+h1 {
+  font-family: 'Rock Salt' ;
+  text-align: center;
+  color: #f4976c;
+}
+
+h2 {
+  font-family: 'Raleway' ;
+  border-top: 2px solid #b4dfe5;
+  border-bottom: 2px solid #b4dfe5;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: center;
+  color: #303c6c;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+p {
+  font-family: 'Rock Salt' ;
+  background-color: #f4976c;
+  color: white;
+  border-radius: 2px;
+  font-size: 0.75em;
+  text-align: center;
+  margin-left: 24%;
+  margin-right: 24%;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #f4976c;
+}
+
+form {
+  font-family: 'Raleway' ;
+  text-align: left;
+  margin-left: 8%;
+}
+
+.content {
+    background-color: #def2f1;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+    padding-bottom: 10%;
+    border-radius: 4px;
+    /**background: url("images/newspaper.jpg");**/
+    background-size: cover;
+}
+
+.home {
+  text-align: center;
+}
+
+.h {
+  padding: 5%;
+  font-size: 2em;
+  font-family: 'Raleway' ;
+  background-color: #fbe8a6;
+  color: #303c6c;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+#description {
+  width: 50%;
+  height: 100px;
+  vertical-align: top;
+}
+
+#button {
+  background-color: #fbe8a6;
+  color: #303c6c;
+}
